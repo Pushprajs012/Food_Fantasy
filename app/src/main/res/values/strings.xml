@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Food Fantasy</string>
+    <string name="get_start">Get Start</string>
+    <string name="enterpassword">Enter Password</string>
+    <string name="minus">-</string>
+    <string name="quantity">1</string>
+    <string name="plus">+</string>
+    <string name="totalprice">Total Price</string>
+    <string name="cart">Cart</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="aboutproduct">Loading...</string>
+    <string name="prodectname">Name</string>
+    <string name="detail">Details</string>
+    <string name="rating">5</string>
+    <string name="price">Price</string>
+    <string name="loding">Loding...</string>
+    <string name="cod">COD</string>
+</resources>

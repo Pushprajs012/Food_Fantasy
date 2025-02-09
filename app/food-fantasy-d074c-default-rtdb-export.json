@@ -1,0 +1,84 @@
+{
+  "food": [
+    {
+      "description": "A double-decker burger with two beef patties, lettuce, cheese, and Big Mac sauce.",
+      "image": "https://i.postimg.cc/Jz266Wq3/1.png",
+      "name": "Big Mac",
+      "price": 5,
+      "product_id": "0",
+      "size": "Large"
+    },
+    {
+      "description": "A crispy chicken patty with lettuce and mayonnaise in a toasted bun.",
+      "image": "https://i.postimg.cc/9M3x2tsr/2.png",
+      "name": "McChicken",
+      "price": 3.75,
+      "product_id": "1",
+      "size": "Medium"
+    },
+    {
+      "description": "Crispy and golden fries made from premium potatoes.",
+      "image": "https://i.postimg.cc/FzNDdFrv/3.png",
+      "name": "French Fries",
+      "price": 1.5,
+      "product_id": "2",
+      "size": "Medium"
+    },
+    {
+      "description": "A creamy dessert with vanilla soft-serve and Oreo cookie crumbles.",
+      "image": "https://i.postimg.cc/9f9pLwzV/4.png",
+      "name": "McFlurry",
+      "price": 1.88,
+      "product_id": "3",
+      "size": "Small"
+    },
+    {
+      "description": "Tender and crispy chicken nuggets, perfect for dipping.",
+      "image": "https://i.postimg.cc/4dT1q4hc/5.png",
+      "name": "Chicken McNuggets",
+      "price": 3.12,
+      "product_id": "4",
+      "size": "10 pieces"
+    },
+    {
+      "description": "A breaded fish fillet with tartar sauce and cheese in a steamed bun.",
+      "image": "https://i.postimg.cc/FzrVFPps/6.png",
+      "name": "Filet-O-Fish",
+      "price": 3.5,
+      "product_id": "5",
+      "size": "Medium"
+    },
+    {
+      "description": "A classic burger with a beef patty, cheese, onions, pickles, ketchup, and mustard.",
+      "image": "https://i.postimg.cc/brmHZQV0/7.png",
+      "name": "Cheeseburger",
+      "price": 2.75,
+      "product_id": "6",
+      "size": "Medium"
+    },
+    {
+      "description": "An English muffin with egg, cheese, and Canadian bacon.",
+      "image": "https://i.postimg.cc/9XbBghX4/8.png",
+      "name": "Egg McMuffin",
+      "price": 2.5,
+      "product_id": "7",
+      "size": "Small"
+    },
+    {
+      "description": "A kid's meal with a choice of main, side, drink, and a toy.",
+      "image": "https://i.postimg.cc/15YrPrqs/9.png",
+      "name": "Happy Meal",
+      "price": 4.38,
+      "product_id": "8",
+      "size": "Standard"
+    },
+    {
+      "description": "A rich and creamy coffee beverage made with freshly brewed espresso.",
+      "image": "https://i.postimg.cc/RZ6Q0J7f/10.png",
+      "name": "McCafe Latte",
+      "price": 2.25,
+      "product_id": "9",
+      "size": "Regular"
+    }
+  ]
+}
